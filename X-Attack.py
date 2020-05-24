@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("toilet -fmono12 -F gay X-Attack")
+os.system("-fmono12 -F  X-Attack")
 print
 print ("\033[96mAuthor   : Akuma : The Hacker")
 print ("YouTube : https://www.youtube.com/WeAreEvils")
